@@ -2,7 +2,7 @@
   "$schema": "https://schema.tauri.app/config/2",
   "productName": "v2rayM",
   "version": "0.1.0",
-  "identifier": "io.github.nosaywanan.v2raym",
+  "identifier": "io.github.neversaywanan.v2raym",
   "build": {
     "beforeDevCommand": "npm run dev",
     "devUrl": "http://localhost:1420",
