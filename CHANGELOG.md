@@ -4,9 +4,9 @@
 
 All notable changes to this project should be documented in this file.
 
-The format loosely follows Keep a Changelog and uses a simple `Unreleased` section for ongoing work.
+The format loosely follows Keep a Changelog.
 
-## Unreleased
+## [v0.1.0] - 2026-03-23
 
 ### Added
 
@@ -14,6 +14,10 @@ The format loosely follows Keep a Changelog and uses a simple `Unreleased` secti
 - Simplified Chinese versions for repository-level documentation.
 - Bilingual GitHub issue and pull request templates.
 - MIT license files in English and Simplified Chinese reference form.
+- Initial desktop application foundation based on Tauri, React, TypeScript, and Rust.
+- SSH-based remote management flow for connecting to Linux servers that already run V2Ray.
+- Subscription parsing support for `vmess`, `vless`, `trojan`, `ss`, and `ssr` nodes.
+- Remote configuration apply, outbound switching, inbound port update, and connectivity test workflows.
 
 ### Changed
 

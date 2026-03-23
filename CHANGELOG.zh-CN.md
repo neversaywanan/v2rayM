@@ -4,9 +4,9 @@
 
 本文件用于记录项目中的重要变更。
 
-格式上参考 Keep a Changelog，并使用一个简单的 `Unreleased` 章节记录当前尚未发布的改动。
+格式上参考 Keep a Changelog。
 
-## Unreleased
+## [v0.1.0] - 2026-03-23
 
 ### 新增
 
@@ -14,6 +14,10 @@
 - 仓库级文档的简体中文版本。
 - 中英双语的 GitHub Issue 与 Pull Request 模板。
 - 英文 MIT 协议原文与中文参考译文。
+- 基于 Tauri、React、TypeScript 与 Rust 的桌面应用基础结构。
+- 面向已部署 V2Ray 的 Linux 服务器的 SSH 远端管理流程。
+- 对 `vmess`、`vless`、`trojan`、`ss`、`ssr` 节点的订阅解析支持。
+- 远端配置应用、出站切换、入站端口更新与连通性测试流程。
 
 ### 变更
 
